@@ -16,7 +16,7 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ![Main Menu Design](https://github.com/hci-a-if-its-2019/assignment-2-zahraayafni/blob/master/assets/2-MainMenu.jpg)
 ![Belonjo Page Design](https://github.com/hci-a-if-its-2019/assignment-2-zahraayafni/blob/master/assets/3-BelonjoPage.jpg)
-![Alert Design](https://github.com/hci-a-if-its-2019/assignment-2-zahraayafni/blob/master/assets/1-Alert.jpg)
+![Alert Design](https://github.com/hci-a-if-its-2019/assignment-2-zahraayafni/blob/master/assets/1-AlertDesign.jpg)
 ![Package Lists Design](https://github.com/hci-a-if-its-2019/assignment-2-zahraayafni/blob/master/assets/6-PackageLists.jpg)
 ![Package Details Design](https://github.com/hci-a-if-its-2019/assignment-2-zahraayafni/blob/master/assets/5-PackageDetails.jpg)
 ![Order Form Design](https://github.com/hci-a-if-its-2019/assignment-2-zahraayafni/blob/master/assets/4-OrderForm.jpg)
