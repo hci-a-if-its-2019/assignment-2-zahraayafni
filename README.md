@@ -73,4 +73,9 @@ There are several do and dont's that i suggested in the contextual inquiry. I ad
 4. Age range from 12 to 60 years old
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+Kindly find the following url which is directed to my invision project for prototyping this application based on the contextual inquiry.
+https://invis.io/AGR7KN2H2CD#/354441749_MainMenu3
+
+For the invision freehand sketch, please go to this url : https://projects.invisionapp.com/freehand/document/utfxVMWr6
+
+Thank You.
