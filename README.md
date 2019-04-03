@@ -78,4 +78,7 @@ https://invis.io/AGR7KN2H2CD#/354441749_MainMenu3
 
 For the invision freehand sketch, please go to this url : https://projects.invisionapp.com/freehand/document/utfxVMWr6
 
+## Latest Prototype (High Fidelity)
+Please go to this link : https://invis.io/UERCXTV5WFJ#/356066667_2-MainMenu1
+
 Thank You.
